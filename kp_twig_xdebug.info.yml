@@ -1,0 +1,6 @@
+name: kp_twig_xdebug
+type: module
+description: 'Drupal 8 Twig Xdebug Break Point Extension'
+package: debug
+version: 8.x-1.0
+core: 8.x

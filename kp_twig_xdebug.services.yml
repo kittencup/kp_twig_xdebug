@@ -1,0 +1,5 @@
+services:
+  twig.extension.xdebug.breakpoint:
+      class: Drupal\kp_twig_xdebug\Twig\Extension\Xdebug
+      tags:
+        - { name: twig.extension }
